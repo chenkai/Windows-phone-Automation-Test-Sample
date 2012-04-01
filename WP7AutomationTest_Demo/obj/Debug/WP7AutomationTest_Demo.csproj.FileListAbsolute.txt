@@ -1,0 +1,13 @@
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\Bin\Debug\ApplicationIcon.png
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\Bin\Debug\Background.png
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\Bin\Debug\WP7AutomationTest_Demo.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\Bin\Debug\WP7AutomationTest_Demo.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\Bin\Debug\AppManifest.xaml
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\Bin\Debug\WP7AutomationTest_Demo.xap
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\obj\Debug\App.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\obj\Debug\MainPage.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\obj\Debug\WP7AutomationTest_Demo.g.resources
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\obj\Debug\WP7AutomationTest_Demo.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\obj\Debug\WP7AutomationTest_Demo.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo\obj\Debug\XapCacheFile.xml

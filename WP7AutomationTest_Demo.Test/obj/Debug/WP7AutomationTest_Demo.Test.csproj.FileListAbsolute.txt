@@ -1,0 +1,17 @@
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\ApplicationIcon.png
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\Background.png
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\WP7AutomationTest_Demo.Test.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\WP7AutomationTest_Demo.Test.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\AppManifest.xaml
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\WP7AutomationTest_Demo.Test.xap
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\Microsoft.Silverlight.Testing.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTesting.Silverlight.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\WP7AutomationTest_Demo.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\Bin\Debug\WP7AutomationTest_Demo.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\obj\Debug\ResolveAssemblyReference.cache
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\obj\Debug\App.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\obj\Debug\MainPage.g.i.cs
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\obj\Debug\WP7AutomationTest_Demo.Test.g.resources
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\obj\Debug\WP7AutomationTest_Demo.Test.dll
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\obj\Debug\WP7AutomationTest_Demo.Test.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\WP7AutomationTest_Demo.Test\obj\Debug\XapCacheFile.xml

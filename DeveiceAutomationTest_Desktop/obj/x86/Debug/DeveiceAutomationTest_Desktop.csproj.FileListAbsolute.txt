@@ -1,0 +1,6 @@
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\DeveiceAutomationTest_Desktop\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\DeveiceAutomationTest_Desktop\bin\Debug\DeveiceAutomationTest_Desktop.exe.config
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\DeveiceAutomationTest_Desktop\bin\Debug\DeveiceAutomationTest_Desktop.exe
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\DeveiceAutomationTest_Desktop\bin\Debug\DeveiceAutomationTest_Desktop.pdb
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\DeveiceAutomationTest_Desktop\obj\x86\Debug\DeveiceAutomationTest_Desktop.exe
+F:\Personal Open Souce Demo\Windows phone Test\DEmo\WP7AutomationTest_Demo\DeveiceAutomationTest_Desktop\obj\x86\Debug\DeveiceAutomationTest_Desktop.pdb
